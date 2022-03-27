@@ -1,0 +1,13 @@
+.book-available {
+  color: black;
+  padding: 0.25em;
+  background-color: rgba(77, 199, 72, 0.911);
+  border-radius: 0.25em;
+}
+.book-not-Available {
+  /* display: flex; */
+  color: black;
+  padding: 0.25em;
+  background-color: rgba(218, 94, 94, 0.911);
+  border-radius: 0.25em;
+}

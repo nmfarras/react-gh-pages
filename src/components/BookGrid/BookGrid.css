@@ -1,0 +1,27 @@
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(63, 60, 60, 0.281);
+  font-size: 10px;
+  text-align: center;
+}
+.grid-item .grid-data{
+  padding: 20px;
+}
+.grid-item .title {
+  font-weight: bold;
+}
+.grid-item .author {
+  font-style: italic;
+}
+.grid-item .price {
+  font-size: 12px;
+}
+.grid-item .status {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.grid-item div#delete-button {
+  margin-left: 3%;
+  margin-top: 3%;
+  float: left;
+}
